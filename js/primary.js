@@ -29,3 +29,4 @@ function openPage(evt, tab) {
   evt.currentTarget.className += " active";
 }
 document.getElementById("indexPage").click();
+
